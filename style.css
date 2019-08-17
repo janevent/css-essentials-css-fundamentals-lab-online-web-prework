@@ -9,6 +9,9 @@ header {
 }
 
 figure {
-  float: none;
   
+}
+
+a {
+  padding: 10px;
 }
