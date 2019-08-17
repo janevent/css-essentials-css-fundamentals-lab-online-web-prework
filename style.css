@@ -16,3 +16,8 @@ a {
   padding: 10px;
   background:grey;
 }
+
+p #featured-property {
+  width: 800px;
+  text-align: center;
+}
